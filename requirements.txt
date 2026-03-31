@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+groq
+langchain-groq
+psycopg2-binary
+pgvector
+sqlalchemy
+python-dotenv
+pillow
