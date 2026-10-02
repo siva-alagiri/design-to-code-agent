@@ -21,3 +21,7 @@ production-ready HTML/CSS code.
 2. Create `.env` file with your `GROQ_API_KEY`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run: `streamlit run app/main.py`
+
+## Portfolio Website
+
+A standalone, responsive portfolio starter is available at [`index.html`](index.html). Open it directly in a browser to preview it; no build step or dependencies are needed. Replace the placeholder name, role, location, email, project details, skills, and social profile links with your own information.
